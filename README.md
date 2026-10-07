@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/data-pipeline.svg" alt="Data pipeline animation" width="100%">
-</p>
-
 ## Hey, I'm Haroon 👋
 ### 👨‍💻 Data Engineer | ETL Pipelines & Cloud Data
 
@@ -12,6 +8,10 @@
 - 🎓 BS in Data Science, Government College University Faisalabad.
 - 🙋‍♂️ Worked at Neeura as a Data Engineer
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/haroon-rasheed-85504024b)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Haroon-Rasheed-103/Haroon-Rasheed-103/main/assets/data-pipeline.svg" alt="Data pipeline animation" width="100%">
+</p>
 
 ## 🚀 Featured — Data Engineering, ML & Analytics
 
