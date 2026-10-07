@@ -10,7 +10,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/haroon-rasheed-85504024b)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Haroon-Rasheed-103/Haroon-Rasheed-103/main/assets/data-pipeline.svg" alt="Data pipeline animation" width="100%">
+  <img src="https://raw.githubusercontent.com/Haroon-Rasheed-103/Haroon-Rasheed-103/main/data-pipeline.svg" alt="Data pipeline animation" width="100%">
 </p>
 
 ## 🚀 Featured — Data Engineering, ML & Analytics
