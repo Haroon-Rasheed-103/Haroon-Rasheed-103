@@ -10,7 +10,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/haroon-rasheed-85504024b)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Animated GIF" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Animated GIF" width="100%">
 </p>
 
 ## 🚀 Featured — Data Engineering, ML & Analytics
