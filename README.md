@@ -9,6 +9,10 @@
 - 🙋‍♂️ Worked at Neeura as a Data Engineer
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/haroon-rasheed-85504024b)
 
+<p align="center">
+  <img src="assets/data-pipeline.svg" alt="Data pipeline animation" width="100%">
+</p>
+
 ## 🚀 Featured — Data Engineering, ML & Analytics
 
 - **Lead Generation Tool** (Neeura.AI) — Built a lead-enrichment pipeline for the sales team by scraping startup and funding news from sources such as Indie Hackers, Y Combinator, and Dawn News to identify companies that had recently raised funding under $1M.
